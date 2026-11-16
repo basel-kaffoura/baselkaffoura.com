@@ -69,4 +69,4 @@ The site runs at http://localhost:3000. The contact form needs a Resend API key;
 
 ## License
 
-© Basel Kaffoura. The code is shared for reference. The written content, images and documents (case studies, CV and certificates) are not licensed for reuse. The fonts in `assets/fonts` are under the SIL Open Font License.
+All rights reserved. The source is published for reference only. No part of it, including the written content, images and documents (case studies, CV and certificates), may be reused without permission. See [LICENSE](LICENSE). The fonts in `assets/fonts` are under the SIL Open Font License.
